@@ -1,3 +1,6 @@
+Required: https://github.com/dvarnai/store-plugin
+
+
 Commands:
 ```
 !raffle
